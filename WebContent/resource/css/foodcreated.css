@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+h2 {
+	padding-top: 20px;
+	width: 960px;
+	text-align: left;
+	font-size: 22px;
+	color: white;
+	/* background: fuchsia; */
+}
+
+.menu_ {
+	font-size: 18px;
+	font-family:"Malgun Gothic", "맑은 고딕", NanumGothic, 나눔고딕, 돋움, sans-serif;
+	/* background: yellow; */
+}	
+
+.menu_list {
+	width: 860px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border-spacing: 0;
+	border-collapse: collapse;
+	color: white;
+	/* background: red; */
+}
+
+.title {
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	height: 45px;
+}
+
+.name {
+	width: 150px;
+	padding: 5px;
+	font-weight: bold;
+	/* background: white; */
+}
+
+.write {
+	width: 550px;
+	text-align: left;
+	border: none;
+	border-bottom: 1px solid white;
+}
+
+.write input {
+	margin-left: 10px;
+	width: 250px;
+	height: 25px;
+}
+
+.write select {
+	margin-left: 10px;
+	width: 250px;
+	height: 25px;
+}
+
+.write textarea {
+	resize: none;	
+	width: 500px;
+	margin: 10px;
+}
+
+.image_delete {
+	color: white;
+	text-align: left;
+/* 	background: lime; */
+}
+
+.image_delete a {
+	color: white;
+}
+
+.btn_box {
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.btn {
+	width: 100px;
+	font-size: 15px;
+	margin: 0 auto;
+	color:#333333;
+    font-weight:500;
+    font-family:"Malgun Gothic", "맑은 고딕", NanumGothic, 나눔고딕, 돋움, sans-serif;
+    border:1px solid #cccccc;
+    background-color:#fff;
+    text-align:center;
+    cursor:pointer;
+    padding:3px 10px 5px;
+    border-radius:4px;
+}
