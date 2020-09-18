@@ -15,4 +15,4 @@
      - 자유 게시판   
      - QnA (답변형 게시판)
 # 
-<img src="./WebContent/resource/image/2.png">
+<img src="./WebContent/resource/image/screenshot.png">
